@@ -14,7 +14,7 @@
 - 💻 Learning C, Python, HTML, CSS & JavaScript  
 - ⚡ Love Building Projects  
 - 🔥 Passionate About Coding & Technology  
-- 🎯 Goal: To Build my Own LLM Model 
+- 🎯 Goal: To Become a software developer 
 
 ---
 
