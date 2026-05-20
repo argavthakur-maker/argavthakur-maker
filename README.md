@@ -27,8 +27,19 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=argavthakur-maker&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argavthakur-maker&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=argavthakur-maker&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argavthakur-maker&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true"/>
+</p>
