@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Argav
 
-<!--
-**argavthakur-maker/argavthakur-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 💻 Learning C, Python and Web Development
+- 🔥 Interested in Coding and Tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+[Instagram](https://www.instagram.com/ar.ttpp/)
+[LinkedIn](https://www.linkedin.com/in/argav-thakur-76413b381/)
+
+---
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=argavthakur-maker&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argavthakur-maker&layout=compact&theme=tokyonight)
