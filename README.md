@@ -14,7 +14,7 @@
 - 💻 Learning C, Python, HTML, CSS & JavaScript  
 - ⚡ Love Building Projects  
 - 🔥 Passionate About Coding & Technology  
-- 🎯 Goal: Become a Full Stack Developer  
+- 🎯 Goal: To Build my Own LLM Model 
 
 ---
 
