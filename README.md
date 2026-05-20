@@ -26,6 +26,15 @@
 </a>
 </p>
 
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/argav-thakur-76413b381/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Connect+with+me+on+LinkedIn;Let's+Grow+Together+🚀;Open+to+Learning+%26+Networking" />
+  </a>
+</p>
 ---
 
 # 💻 Tech Stack
