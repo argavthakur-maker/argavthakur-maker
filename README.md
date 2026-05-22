@@ -26,3 +26,4 @@ Power Ups:
   - Consistency 🔥
   - Curiosity 🧠
   - Debugging Patience 🛠️
+```
