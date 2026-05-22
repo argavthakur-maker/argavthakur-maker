@@ -8,7 +8,6 @@
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 First Year B.Tech CSE Student  
 - 💻 Learning C, Python, HTML, CSS & JavaScript  
