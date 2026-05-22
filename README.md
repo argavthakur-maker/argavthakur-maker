@@ -74,6 +74,19 @@
 | 🏆 Hackathon Winner | 🔒 Locked |
 | 👨‍💻 Software Developer | 🔒 Final Boss |
 
+
+---
+
+## ⚡ Buddy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <b>“Eat • Sleep • Code • Repeat”</b>
+</p>
+
 ---
 
 ## ⚔️ Boss Fight Progress
@@ -88,12 +101,4 @@ DSA Preparation      ████░░░░░░ 40%
 
 ---
 
-## ⚡ Final Boss Energy
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  <b>“Eat • Sleep • Code • Repeat”</b>
-</p>
