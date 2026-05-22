@@ -84,3 +84,16 @@ Coding Practice      ███████░░░ 70%
 Project Building     ████████░░ 80%
 Open Source          █████░░░░░ 50%
 DSA Preparation      ████░░░░░░ 40%
+
+
+---
+
+## ⚡ Final Boss Energy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <b>“Eat • Sleep • Code • Repeat”</b>
+</p>
