@@ -54,10 +54,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=argavthakur-maker&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argavthakur-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
 ---
 
 # 🏆 GitHub Trophies
