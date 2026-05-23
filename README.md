@@ -1,85 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+I'm+Argav+Thakur;Open+Source+Enthusiast;First+Year+CSE+Student;Building+Projects+Everyday;Future+Software+Developer" />
-</p>
+# 💫 About Me:
+💻 I’m currently working on Full Stack Web Development  <br>🤝 I’m looking to collaborate on Open Source Projects  <br>🧠 I’m currently learning Python, React & Backend Development  <br>💬 Ask me about C, C++, Python and Software Engineering  <br>⚡ Fun fact: I love building aesthetic and interactive UIs
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ARGAV%20THAKUR&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00F7FF&animation=fadeIn&fontSize=45" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ar.ttpp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/argav-thakur-76413b381/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:argavthakur@gmail.com) 
 
-# 🧑‍💻 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-- 🎓 First Year B.Tech CSE Student  
-- 💻 Learning C, C++, Python & Web Dev  
-- 🚀 Open Source Enthusiast  
-- ⚡ Love Building Projects  
-- 🌱 Currently Improving DSA & Development  
-- 🎯 Goal: Become Software Engineer  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=argavthakur-maker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=argavthakur-maker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=argavthakur-maker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=argavthakur-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# ⚔️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,mysql" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=argavthakur-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=argavthakur-maker&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argavthakur-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=argavthakur-maker&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=argavthakur-maker&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🎮 Developer Progress
-
-```txt
-C Programming      ████████░░ 80%
-C++                ███████░░░ 70%
-Python             ███████░░░ 70%
-HTML/CSS           ████████░░ 80%
-JavaScript         ██████░░░░ 60%
-Git & GitHub       ███████░░░ 70%
-DSA                ████░░░░░░ 40%
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
