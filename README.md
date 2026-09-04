@@ -72,18 +72,7 @@
 
 ## 🐍 Contribution Graph
 
+## 📈 Contribution Graph
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/argavthakur-maker/argavthakur-maker/output/github-contribution-grid-snake-dark.svg" width="80%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=argavthakur-maker&icon=github&color=c9a96e&style=flat-square)](https://visitcount.itsvg.in)
-
-<sub>Proudly crafted with ✨ by Argav</sub>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=argavthakur-maker&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
