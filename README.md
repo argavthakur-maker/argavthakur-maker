@@ -40,7 +40,7 @@ looking_to:
   - Build Innovative Products
   - Connect with Developers
 
-ask_me_about:
+Ask_me_about:
   - C
   - C++
   - Python
@@ -48,7 +48,7 @@ ask_me_about:
   - Web Development
   - Software Engineering
 
-fun_fact: I love turning ideas into aesthetic and interactive interfaces 🚀
+Fun_fact: I love turning ideas into aesthetic and interactive interfaces 🚀
 ```
 
 ---
