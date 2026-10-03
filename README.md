@@ -2,10 +2,10 @@
 
 <img src="https://i.pinimg.com/736x/df/05/6e/df056e677398e2e8fe0809025248ab09.jpg" width="450" alt="Argav">
 
-<br>
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=C9A96E&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Argav+%F0%9F%91%8B;Full+Stack+Web+Developer;C%2B%2B+%7C+Python+%7C+React;Building+Aesthetic+%26+Interactive+UIs;Open+to+Open+Source+Collaborations+%F0%9F%A4%9D" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=C9A96E&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Argav+%F0%9F%91%8B;Full+Stack+Web+Developer;C%2B%2B+%7C+Python+%7C+React;Building+Aesthetic+%26+Interactive+UIs;Open+to+Open+Source+Collaborations+%F0%9F%A4%9D" alt="Typing SVG">
 </a>
 
 <br><br>
@@ -40,7 +40,7 @@ looking_to:
   - Build Innovative Products
   - Connect with Developers
 
-Ask_me_about:
+ask_me_about:
   - C
   - C++
   - Python
@@ -48,8 +48,7 @@ Ask_me_about:
   - Web Development
   - Software Engineering
 
-Fun_fact: I love turning ideas into aesthetic and interactive interfaces 🚀
-```
+fun_fact: I love turning ideas into aesthetic and interactive interfaces 🚀
 
 ---
 
