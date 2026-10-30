@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌐 Building full-stack web applications.<br>🤖 Exploring Artificial Intelligence and its real-world applications.<br>🧠 Strengthening my Data Structures & Algorithms skills.<br>⚡ Developing practical projects to turn ideas into reality.<br>📚 Continuously learning and growing as a developer.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/argav-thakur-argav07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:argavthakur@gmail.com) 
 
