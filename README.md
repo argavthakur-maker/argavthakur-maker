@@ -1,17 +1,13 @@
 <div align="center">
 
-# Hey, I'm Argav Thakur 👋
+<img src="./assets/profile-hero.svg" width="100%" alt="Argav Thakur — Full-Stack Developer, AI Enthusiast and CSE Student" />
 
-### Full-Stack Developer · AI Enthusiast · CSE Student
-
-Building useful products, learning how systems work, and exploring AI under the hood.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](http://argav.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-E11D48?style=for-the-badge&logo=vercel&logoColor=white)](http://argav.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/argavthakur-maker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/argav-thakur-argav07/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:argavthakur@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=argavthakur-maker&style=flat-square&color=7C3AED)
+![Profile Views](https://komarev.com/ghpvc/?username=argavthakur-maker&style=flat-square&color=E11D48)
 
 </div>
 
