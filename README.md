@@ -72,26 +72,18 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🔥 Contribution Stats
+### 🔥 GitHub Stats
 
-Track my coding activity, contributions, and consistency across GitHub.
-
-<a href="https://github.com/argavthakur-maker">
-<img src="https://img.shields.io/badge/OPEN_GITHUB_PROFILE-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub profile"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argavthakur-maker&theme=github_dark&bg_color=0D1117&title_color=FB7185&text_color=E6EDF3&icon_color=E11D48&chart_color=E11D48&border_color=30363D" alt="Argav's GitHub statistics" />
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Most Used Languages
 
-Explore the languages I use across my public repositories and projects.
-
-<a href="https://github.com/argavthakur-maker?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_LANGUAGES-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories and languages"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=argavthakur-maker&theme=github_dark&bg_color=0D1117&title_color=FB7185&text_color=E6EDF3&icon_color=E11D48&chart_color=E11D48&border_color=30363D" alt="Most used programming languages across Argav's public repositories" />
 
 </td>
 </tr>
@@ -99,7 +91,7 @@ Explore the languages I use across my public repositories and projects.
 
 ### ⚡ Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true&ring=E11D48&fire=FB7185&currStreakLabel=FB7185" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true&ring=E11D48&fire=FB7185&currStreakLabel=FB7185" alt="GitHub contribution streak" />
 
 </div>
 
