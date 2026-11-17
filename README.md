@@ -64,14 +64,42 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 - Full-stack application development
 - Practical AI integrations and machine learning fundamentals
 
-### `github_stats`
+---
+
+## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
 
-[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View_Profile-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argavthakur-maker)
-[![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-Explore_Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argavthakur-maker?tab=repositories)
+<table>
+<tr>
+<td width="50%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 🔥 Contribution Stats
+
+Track my coding activity, contributions, and consistency across GitHub.
+
+<a href="https://github.com/argavthakur-maker">
+<img src="https://img.shields.io/badge/OPEN_GITHUB_PROFILE-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub profile"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Most Used Languages
+
+Explore the languages I use across my public repositories and projects.
+
+<a href="https://github.com/argavthakur-maker?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_LANGUAGES-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories and languages"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+### ⚡ Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true&ring=E11D48&fire=FB7185&currStreakLabel=FB7185" alt="GitHub contribution streak"/>
 
 </div>
 
