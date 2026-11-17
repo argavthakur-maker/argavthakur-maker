@@ -72,8 +72,10 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=argavthakur-maker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Argav's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argavthakur-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argavthakur-maker&theme=tokyonight" alt="GitHub profile summary" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argavthakur-maker&theme=tokyonight" alt="GitHub statistics" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argavthakur-maker&theme=tokyonight" alt="Most used languages" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
