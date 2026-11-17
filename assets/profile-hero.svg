@@ -13,6 +13,6 @@
   <rect width="1200" height="430" fill="#0d1117"/>
   <path d="M530 78 C610 34 730 65 755 150 C782 243 708 302 625 290 C541 278 475 217 488 150 C495 116 505 94 530 78Z" fill="url(#orb)"/>
   <text x="600" y="190" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="800" fill="#f8fafc" stroke="#e11d48" stroke-width="1.6" paint-order="stroke" filter="url(#glow)">Argav Thakur</text>
-  <text x="600" y="250" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" fill="#f8fafc">Full-Stack Developer | AI Enthusiast | CSE Student</text>
-  <text x="600" y="355" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#fda4af">Building products. Solving problems. Exploring AI.</text>
+  <text x="600" y="250" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="650" fill="#f8fafc">Computer Science Undergraduate | Software Development | AI</text>
+  <text x="600" y="355" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#fda4af">Engineering thoughtful solutions. Learning through building.</text>
 </svg>
