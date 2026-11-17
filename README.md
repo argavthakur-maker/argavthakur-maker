@@ -99,6 +99,20 @@ I'm a **Computer Science undergraduate** interested in designing and building us
 
 <div align="center">
 
+## <img src="https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-E11D48?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Activity" />
+
+**A visual timeline of my open-source journey**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=argavthakur-maker&bg_color=0D1117&color=FB7185&line=E11D48&point=FFFFFF&area=true&area_color=7F1D3A&hide_border=true&custom_title=Commits%20%26%20Contribution%20History" width="100%" alt="Argav's GitHub contribution activity graph" />
+
+<sub>Every commit is a small step forward — consistently learning, building, and improving.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ### Always building. Always learning. 🚀
 
 </div>
