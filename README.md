@@ -6,7 +6,7 @@
 
 Building useful products, learning how systems work, and exploring AI under the hood.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://argavthakur-maker.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](http://argav.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/argavthakur-maker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/argav-thakur-argav07/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:argavthakur@gmail.com)
@@ -60,7 +60,7 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 |---|---|
 | **[Hostelers — Hostel Budget Manager](https://github.com/argavthakur-maker/Expense-tracker)** | A budgeting app for hostel students to track expenses, manage a monthly allowance, and make smarter day-to-day spending decisions. |
 | **[DSA_CODES](https://github.com/argavthakur-maker/DSA_CODES)** | My C++ practice space for learning data structures, algorithms, and problem-solving step by step. |
-| **[Portfolio](https://argavthakur-maker.github.io/)** | My developer portfolio and a home for the projects I'm working on. |
+| **[Portfolio](http://argav.vercel.app/)** | My developer portfolio and a home for the projects I'm working on. |
 
 ### `currently_learning`
 
