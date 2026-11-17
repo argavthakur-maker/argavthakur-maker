@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Argav Thakur — Full-Stack Developer, AI Enthusiast and CSE Student" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Argav Thakur — Computer Science Undergraduate focused on Software Development and AI" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-E11D48?style=for-the-badge&logo=vercel&logoColor=white)](http://argav.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/argavthakur-maker)
@@ -15,12 +15,12 @@
 
 ### `whoami`
 
-I'm a Computer Science student focused on **full-stack development, problem solving, and artificial intelligence**.
+I'm a **Computer Science undergraduate** interested in designing and building useful software, solving engineering problems, and exploring the practical applications of AI.
 
-- Building web applications with modern frontend and backend technologies.
-- Strengthening my foundations in **Data Structures & Algorithms using C++**.
-- Exploring how AI can solve practical problems.
-- Learning by building, debugging, and shipping projects.
+- Developing a strong foundation in **software development, data structures, and algorithms**.
+- Building practical projects that turn ideas into working applications.
+- Exploring AI and modern technologies with a focus on real-world use cases.
+- Focused on writing clear, maintainable code and continuously improving through hands-on work.
 
 ### `tech_stack`
 
@@ -33,7 +33,7 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frontend & Backend**
+**Development Technologies**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -61,7 +61,7 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 ### `currently_learning`
 
 - Data Structures & Algorithms — trees, BSTs, sorting, and problem solving
-- Full-stack application development
+- Software engineering principles and application architecture
 - Practical AI integrations and machine learning fundamentals
 
 ---
