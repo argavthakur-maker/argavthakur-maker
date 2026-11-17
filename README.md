@@ -72,12 +72,10 @@ I'm a Computer Science student focused on **full-stack development, problem solv
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=argavthakur-maker&theme=tokyonight" alt="GitHub profile summary" width="100%" />
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View_Profile-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argavthakur-maker)
+[![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-Explore_Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argavthakur-maker?tab=repositories)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=argavthakur-maker&theme=tokyonight" alt="GitHub statistics" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=argavthakur-maker&theme=tokyonight" alt="Most used languages" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
