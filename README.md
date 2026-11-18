@@ -91,7 +91,7 @@ I'm a **Computer Science undergraduate** interested in designing and building us
 
 ### ⚡ Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=argavthakur-maker&theme=tokyonight&hide_border=true&ring=E11D48&fire=FB7185&currStreakLabel=FB7185" alt="GitHub contribution streak" />
+<img src="./profile/streak.svg" alt="GitHub contribution streak" />
 
 </div>
 
